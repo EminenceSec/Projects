@@ -49,7 +49,7 @@ The project uses the following tools:
 4. Run the main script:
 
 ```bash
-./analyzer.sh
+./Analyzer.sh
 ```
 
 ## Disclaimer
